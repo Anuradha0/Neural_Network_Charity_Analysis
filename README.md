@@ -22,7 +22,7 @@ How many neurons, layers, and activation functions did you select for your neura
 
 Were you able to achieve the target model performance?
 
--  The original models performance fell short of the 75% target.  The accuracy recorded was 72.5% with a loss of 55.9%.
+-  The original models performance fell short of the 75% target.  The accuracy recorded was 72.5%.
 
 What steps did you take to try and increase model performance?
 Attempts performed:

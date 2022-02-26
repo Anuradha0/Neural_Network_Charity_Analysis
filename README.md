@@ -1,19 +1,5 @@
 # Neural Network Charity Analysis
 
-## Project Overview - Neural Network Charity Analysis
-
-
-## Resources
--  Data Files: charity_data.csv
-
--  Software/Languages:  Python 3.7.10, Pandas 1.2.4, 
-
-
-
-# Challenge Summary
-
-## Neural Network Charity Analysis - Results
-
 ## Data Preprocessing
 
 ### What variable(s) are considered the target(s) for your model?
